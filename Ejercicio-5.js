@@ -73,12 +73,3 @@ let incremento2 = 5;
 incremento2 ++;
 
 console.log(incremento2+=2)
-
-
-
-
-
-
-
-
-
